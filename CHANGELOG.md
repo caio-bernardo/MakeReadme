@@ -12,7 +12,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [ ] README template
 - [ ] README creation 
 
-## [0.1.0](https://github.com/caio-bernardo/MakeReadme/tags/v0.1.0..HEAD) 2022-12-13
+## [0.1.1](https://github.com/caio-bernardo/MakeReadme/tags/v0.1.0..v0.1.1) - 2022-12-13
+
+### Added
+
+ - MIT License
+
+### Fixed
+ - Typos on README.md 
+
+## [0.1.0](https://github.com/caio-bernardo/MakeReadme/tags/v0.1.0..HEAD) - 2022-12-13
 
 ### Added
 
