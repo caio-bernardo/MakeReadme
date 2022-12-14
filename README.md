@@ -13,7 +13,7 @@
 If you want to mess around with this project,you need to fork it.
 You can run the project with cargo.
 ```
-cd makereade 
+cd makereadme 
 cargo install
 cargo run
 ```
@@ -32,9 +32,9 @@ cargo run test
 ## Contributing 🤝
 
 Contributions, issues and ideas are welcome.  Take a look at the [issues page](https://github.com/caio-bernardo/MakeReadme/issues).
-[Also, check the contribution guide](./CONTRIBUITING.md)
+[Also, check the contribution guide](./CONTRIBUTING.md)
 
 
 ## License :pencil:  
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
