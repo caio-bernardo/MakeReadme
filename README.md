@@ -26,7 +26,7 @@ cargo run test
 
 ## Built With :floppy_disk:
 - Clap
-- Inquier
+- Inquire
 
 
 ## Contributing 🤝
