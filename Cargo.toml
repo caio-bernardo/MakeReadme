@@ -1,17 +1,20 @@
 [package]
 name = "makereadme"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
+authors = ["Caio Bernardo caio.2004vb@gmail.com"]
+license = "MIT"
 description = "A simple CLI made to create a README.md for your repository"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
+homepage = "https://github.com/caio-bernardo/MakeReadme"
+repository = "https://github.com/caio-bernardo/MakeReadme"
 
 [dependencies]
-clap = "4.0.29"
-human-panic = "1.0.3"
+clap = { version = "4.0.29", features = ["derive"] }
+handlebars = { version = "4.3.6", features = ["rust-embed"] }
 inquire = "0.5.2"
-anyhow = "1.0.66"
-toml = "0.5.10"
+rust-embed = "6.4.2"
+serde = { version = "1.0.152", features = ["derive"] }
+serde_derive = "1.0.152"
 
-[dev-dependencies]
-assert_cmd = "2.0.7"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
