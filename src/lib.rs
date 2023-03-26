@@ -1,5 +1,6 @@
 use handlebars::Handlebars;
 use rust_embed::RustEmbed;
+use clap::Parser;
 
 mod repodata;
 
@@ -11,7 +12,13 @@ const OUTPUT_FILE: &str = "README.md";
 struct Assets;
 
 
+#[derive(Parser)]
+#[command(author, version, about, long_about = None)]
+struct Cli;
+
 pub fn run() {
+    let _cli = Cli::parse();
+
     let repo_info = repodata::RepoData::ask_questions();
 
     let mut hbs = Handlebars::new();
