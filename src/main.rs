@@ -19,7 +19,7 @@ struct Data {
 fn make_questions() -> Data {
     Data {
         project_title: Text::new("Project title:").prompt().unwrap(),
-        project_description: Text::new("Project Description:").prompt().unwrap(),
+        project_description: Text::new("Project description:").prompt().unwrap(),
         github_username: Text::new("Github username:").prompt().unwrap(),
         repo_name: Text::new("Repo name:").prompt().unwrap(),
         license: Text::new("License:").prompt().unwrap(),
