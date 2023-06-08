@@ -10,11 +10,11 @@ homepage = "https://github.com/caio-bernardo/MakeReadme"
 repository = "https://github.com/caio-bernardo/MakeReadme"
 
 [dependencies]
-clap = { version = "4.0.29", features = ["derive"] }
+clap = { version = "4.2.5", features = ["derive"] }
 handlebars = { version = "4.3.6", features = ["rust-embed"] }
-inquire = "0.5.2"
-rust-embed = "6.4.2"
-serde = { version = "1.0.152", features = ["derive"] }
-serde_derive = "1.0.152"
+inquire = "0.6.1"
+rust-embed = "6.6.1"
+serde = { version = "1.0.160", features = ["derive"] }
+serde_derive = "1.0.160"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
