@@ -1,5 +1,9 @@
-<a name="readme-top"></a>
+<a align="center" name="readme-top"></a>
 
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <h1 align="center">{{ project_title }}</h1>
 
 <!-- PROJECT SHIELDS -->
 [![Contributors][contributors-shield]][contributors-url]
@@ -7,13 +11,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![{{ license }}License][license-shield]][license-url]
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-<h3 align="center">{{ project_title }}</h3>
-
   <p align="center">
     {{ project_description }}
  
