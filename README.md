@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+<a align="center" name="readme-top"></a>
 
 
 <!-- PROJECT SHIELDS -->
@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">MakeReadMe</h3>
+  <h1 align="center">MakeReadMe</h1>
 
   <p align="center">
     A CLI for creating a README for your github project
