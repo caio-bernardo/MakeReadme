@@ -1,12 +1,6 @@
 <a align="center" name="readme-top"></a>
 
 
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MITLicense][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
@@ -14,6 +8,12 @@
 <div align="center">
   <h1 align="center">MakeReadMe</h1>
 
+<!-- PROJECT SHIELDS -->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MITLicense][license-shield]][license-url]
   <p align="center">
     A CLI for creating a README for your github project
  
