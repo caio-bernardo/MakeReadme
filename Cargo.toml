@@ -1,6 +1,6 @@
 [package]
 name = "makereadme"
-version = "0.2.0"
+version = "0.3.0"
 edition = "2021"
 authors = ["Caio Bernardo caio.2004vb@gmail.com"]
 license = "MIT"
